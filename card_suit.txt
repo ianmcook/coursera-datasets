@@ -1,0 +1,5 @@
+suit	color
+Clubs	Black
+Diamonds	Red
+Hearts	Red
+Spades	Black

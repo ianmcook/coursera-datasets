@@ -1,0 +1,4 @@
+id	name	price	maker_id
+21	Lite-Brite	14.47	105
+22	Mr. Potato Head	11.50	105
+23	Etch A Sketch	29.99	106

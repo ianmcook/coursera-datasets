@@ -1,0 +1,4 @@
+id	name	city
+105	Hasbro	Pawtucket, RI
+106	Ohio Art Company	Bryan, OH
+107	Mattel	Segundo, CA
